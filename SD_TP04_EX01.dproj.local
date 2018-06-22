@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/05 22:09:27.000.537,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\Project1.dproj=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\SD_TP04_EX01.dproj</Transaction>
+    <Transaction>2017/12/05 22:09:55.000.778,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\SD_TP04_EX01.dproj=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\SD_TP04_EX01.dproj</Transaction>
+    <Transaction>2017/12/05 22:12:28.931,=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\Unit1.pas</Transaction>
+    <Transaction>2017/12/05 22:12:56.773,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\Unit_SD_TP04_EX01_DATE.pas=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\Unit1.pas</Transaction>
+    <Transaction>2017/12/05 22:13:08.735,=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\Unit1.pas</Transaction>
+    <Transaction>2017/12/05 22:13:30.612,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\Unit_SD_TP04_EX02_FRACTION.pas=C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\Unit1.pas</Transaction>
+    <Transaction>2017/12/05 22:17:19.774,C:\Users\Jean-Claude\Documents\Embarcadero\Studio\Projets\STRUCTURE DE DONNEES\Unit_SD_TP04_EX02_FRACTION.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
